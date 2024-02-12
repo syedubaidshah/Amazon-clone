@@ -9,7 +9,7 @@
 }
 
 .navbar {
- min-height: 60px;
+  min-height: 60px;
   background-color: #0f1111;
   color: white;
   display: flex;
@@ -67,7 +67,6 @@
   border-radius: 4px;
   background-color: pink;
 }
-
 
 .search-select {
   background-color: #f3f3f3;
@@ -135,19 +134,20 @@ span {
 }
 
 .panel::-webkit-scrollbar {
-  height: 4px;}
+  height: 4px;
+}
 
-  .panel::-webkit-scrollbar-thumb {
-    background-color: #888;
-  }
+.panel::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
 
-  .panel-all {
-    font-weight: 600;
-    flex-shrink: 0;
-  }
-  .panel-all i {
-    margin-left: 20px;
-  }
+.panel-all {
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.panel-all i {
+  margin-left: 20px;
+}
 
 .panel-option p {
   display: inline;
@@ -296,8 +296,8 @@ ul p {
 .foot-panel4 {
   background-color: #0f1111;
   color: white;
-  height: 80px;              
-  font-size: 0.7rem;  
+  height: 80px;
+  font-size: 0.7rem;
   text-align: center;
 }
 
@@ -322,7 +322,7 @@ ul p {
     order: 10;
     width: 90%;
   }
-  .hero-section{
+  .hero-section {
     background-position: center;
   }
   .box {
